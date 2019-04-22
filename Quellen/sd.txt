@@ -1,0 +1,6 @@
+@inproceedings{Salvaneschi2014REScalaBB,
+  title={REScala: bridging between object-oriented and functional style in reactive applications},
+  author={Guido Salvaneschi and Gerold Hintz and Mira Mezini},
+  booktitle={MODULARITY},
+  year={2014}
+}
